@@ -1,6 +1,6 @@
 # FirstJavaPrograms
-### My First Java Programs
-### Created for Mr. Lewin's Grade 11 Intro to Computer Science class
+My First Java Programs
+Created for Mr. Lewin's Grade 11 Intro to Computer Science class
 
 Github Link: https://github.com/AnjaliG29/FirstJavaPrograms/tree/main
 
